@@ -12,7 +12,7 @@ Welcome to the Chatbot project! This repository contains the source code and doc
 
 ## Introduction
 
-This project is a chatbot designed to simulate conversation with users using natural language processing. It was developed as part of a BTech degree in Electronics and Communication with minors in Computer Science. The chatbot is capable of answering questions, engaging in small talk, and performing simple tasks based on user input.
+This project is a chatbot designed to simulate conversation with users using natural language processing. The chatbot is capable of answering questions, engaging in small talk, and performing simple tasks based on user input.
 
 ## Features
 
