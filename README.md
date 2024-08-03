@@ -27,13 +27,17 @@ This project is a chatbot designed to simulate conversation with users using nat
 To get started with the chatbot, follow these steps:
 
 1. Clone the repository:
+   
    ```bash
    git clone https://github.com/yourusername/chatbot.git
    cd chatbot
 2. Install the required dependencies:
+   
    ```bash
    pip install -r requirements.txt
+   
 3. Run the chatbot:
+   
    ```bash
    python chatbot.py
 
@@ -41,6 +45,7 @@ To get started with the chatbot, follow these steps:
 Once the chatbot is running, you can interact with it via the command line or a web interface. Simply type your questions or statements and the chatbot will respond accordingly.
 
 1. Example interaction:
+   
    ```bash
    User: Hello, how are you?
    Chatbot: I'm just a bunch of code, but I'm functioning as expected! How can I assist you today?```
@@ -48,5 +53,3 @@ Once the chatbot is running, you can interact with it via the command line or a 
 ## Contact
 If you have any questions or suggestions, feel free to open an issue or contact:
 Dhrishita Parve: dhrishitap18@gmail.com
-
-
